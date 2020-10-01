@@ -1,9 +1,9 @@
-### Kaggle-titanic
+### Kaggle-titanic-competitive
 This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster. The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions .
 
 **Quick Start:** [View](http://nbviewer.ipython.org/urls/raw.github.com/agconti/kaggle-titanic/master/Titanic.ipynb) a static version of the notebook in the comfort of your own web browser.
 
-### Installation:
+### Installation of pre-requisites:
 
 To run this notebook interactively:
 
@@ -42,7 +42,7 @@ To run this notebook interactively:
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 ### Goal for this Notebook:
-Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field of Data Science and Machine Learning or those who are already in the field and looking to see various  examples of an analysis done with Python  using jupyter notebook.
 
 #### This Notebook will show basic examples of:
 #### Data Handling
